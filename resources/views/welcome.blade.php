@@ -1,3 +1,4 @@
+<!-- Proudly developed by intelligence at Alfa Intellitech -->
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
@@ -10,7 +11,8 @@
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
         <!-- Styles -->
-        <link href="//cdn.muicss.com/mui-0.10.0/css/mui.min.css" rel="stylesheet" type="text/css" media="screen" />
+        <link href="{!! asset('css/app.css') !!}" rel="stylesheet" type="text/css" media="screen" />
+
     </head>
     <body>
         <div id="{{env('MIX_APP_NAME')}}"></div>
