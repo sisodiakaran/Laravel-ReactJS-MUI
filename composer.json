@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "alfaintellitech/writomatic",
     "type": "project",
-    "description": "The Laravel Framework with ReactJS MUI setup.",
+    "description": "Whiteboard App.",
     "keywords": [
         "framework",
         "laravel"
